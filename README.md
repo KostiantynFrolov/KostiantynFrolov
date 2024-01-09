@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Django application development.  
 - 📫 How to reach me: frolov.kostiantyn@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like picking muchrooms.
 
 <!---
 KostiantynFrolov/KostiantynFrolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
